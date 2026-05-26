@@ -196,7 +196,7 @@ This creates two users:
 
 | Name | Email | Password |
 |---|---|---|
-| Aman Sharma | aman@example.com | password123 |
+| Aman kumar | aman@example.com | password123 |
 | Test User | test@example.com | password123 |
 
 ### Step 6 — Start the server
@@ -223,7 +223,7 @@ POST /api/auth/register
 ```
 ```json
 {
-  "name": "Aman Sharma",
+  "name": "Aman kumar",
   "email": "aman@example.com",
   "password": "password123"
 }
