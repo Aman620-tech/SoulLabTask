@@ -136,7 +136,7 @@ REDIS_HOST=localhost
 REDIS_PORT=6379
 
 # JWT
-JWT_SECRET=your_super_secret_jwt_key
+JWT_SECRET=token_key
 JWT_EXPIRES_IN=7d
 
 # Payment Config
